@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <!-- Paste your OAuth *Web* client ID from Google Cloud Console (optional, enables ID token) -->
+    <string name="google_web_client_id"></string>
+</resources>
